@@ -1,2 +1,1 @@
-# rownanieKwadratowe
-# rownanieKwadratowe
+Przykład rozwiązania parabli z ćwiczeń.
