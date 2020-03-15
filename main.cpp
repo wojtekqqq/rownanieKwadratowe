@@ -35,7 +35,7 @@ void obliczanieRownania() {
             else if (delta == 0) {
                 float x;
                 x = -b * (2 * a);
-                cout << "Równanie posiada rozwiązanie x = " << x << endl;
+                cout << "Równanie posiada jedno rozwiązanie x = " << x << endl;
             } else {
                 float x1, x2, w1, w2;
                 x1 = (-b + sqrt(delta)) / (2 * a);
