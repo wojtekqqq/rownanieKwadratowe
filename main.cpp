@@ -64,7 +64,7 @@ void rownanieLiniowe(float a2, float b2){
     else{
         float x;
         x=-b2/a2;
-        cout<<"x wynosi: "<<endl;
+        cout<<"Szukany x wynosi: "<<endl;
     }
 }
 int main() {
