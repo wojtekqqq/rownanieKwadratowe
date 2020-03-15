@@ -23,7 +23,7 @@ void obliczanieRownania() {
         cout<<"Nie wprowadziłeś liczby !!!";
         exit(0);
     }
-        cout << "Równanie ma postać " << a << "x^2+" << b << "x+" << c << endl;
+        cout << "Równanie ma następującą postać " << a << "x^2+" << b << "x+" << c << endl;
         if (a == 0)
             rownanieLiniowe(a, b);
         else {
